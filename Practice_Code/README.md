@@ -1,5 +1,7 @@
 # Steps to Upload to Github
 
-```git add .```
-```git commit -m "Add existing file"```
-```git push origin main```
+1. ```git add .```
+ 
+2. ```git commit -m "Add existing file"```
+
+3. ```git push origin main```
